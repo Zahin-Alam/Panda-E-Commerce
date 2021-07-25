@@ -1,0 +1,29 @@
+.Subscribe{
+    height: 300px;
+    margin-bottom: 100px;
+}
+.button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+ border: none;
+ border-radius: 8px;
+ padding: 9px 25px;   
+}
+.text{
+    text-align: center;
+}
+.extra-button{
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.image img{
+    width: 100px;
+}
+.image{
+    
+    padding: 10px 50px;
+    border-radius: 15px;
+}
+.slider{
+    border-radius: 10px;
+}
